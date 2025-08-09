@@ -13,26 +13,43 @@ author_profile: true
 
 My research at the Korea Rural Economic Institute (KREI) has centered on supporting sustainable agricultural production by evaluating agricultural and environmental policies related to climate change, extreme weather events, drought resilience, and sustainable resource use. Through a series of national projects, I have conducted economic evaluations to inform evidence-based policymaking and explored strategies such as greenhouse gas mitigation and adaptation, and integrated water-energy-food systems to strengthen agricultural sustainability.
 
-* Hakkyun Jeong, Jaehoon Sung, **Hyunjung Lee**, *The Effects of Extreme Events on Korean Agricultural Sector*, Korea Rural Economic Institute, 2019.
-* Jaehoon Sung, Wonjoo Cho, **Hyunjung Lee**, Kyungsoo Kang, *Development of Economic Assessment Model for Water-Energy-Food Nexus Platform and Evaluation Agricultural Policies Based on Water-Energy-Food Nexus* (Year 2 of 2), Korea Rural Development Administration, 2019.
-* Gwangseok Chae, Hongsang Kim, Youngah Lim, **Hyunjung Lee**, *Study on Appropriate Prices of Water Supply for Permission to Use Agricultural Production Facilities*, Korea Rural Community Cooperation, 2019.
-* Gwangseok Chae, Jaehoon Sung, **Hyunjung Lee**, *Technology Development to Prevent Regional Mega-Drought* (Year 1 of 3), National Disaster Management Research Institute, 2019.
-* Hakkyun Jeong, Youngah Lim, **Hyunjung Lee**, Kyungsoo Kang, *Study on the Development of Standardization Technology of Minimum Tillage Method for Greenhouse Gas Reduction Paddy Soil*, Korea Rural Development Administration, 2019.
-* Hakkyun Jeong, Jaehoon Sung, Youngah Lim, **Hyunjung Lee**, *The Impact of the New Climate Regime on the Agriculture, Livestock, and Food Sectors and Countermeasures* (Year 2 of 2), Korea Rural Economic Institute, 2018.
-* Hakgi Sohn, Hongsang Kim, **Hyunjung Lee**, *A Study on Establishing an Information System for Agri-Environmental Resource Management*, Korea Rural Economic Institute, 2018.
-* Youngah Lim, Hakkyun Jeong, **Hyunjung Lee**, Booyoung Kim, *A Study on the Introduction of Regional Policy for Agricultural Environment Management*, Korea Ministry of Agriculture, Food and Rural Affairs, 2018.
-* Youngah Lim, **Hyunjung Lee**, Sungmin Cheu, *Environment-Friendly Agriculture Policy Evaluation and its Paradigm Shift*, Korea Ministry of Agriculture, Food and Rural Affairs, 2018.
-* Jaehoon Sung, Wonjoo Cho, **Hyunjung Lee**, *Development of Economic Assessment Model for Water-Energy-Food Nexus Platform and Evaluation Agricultural Policies Based on Water-Energy-Food Nexus* (Year 1 of 2), Korea Rural Development Administration, 2018.
-* Sangmin Lee, Jaehoon Sung, Youngah Lim, **Hyunjung Lee**, *The Impact of the New Climate Regime on the Agriculture, Livestock, and Food Sectors and Countermeasures* (Year 1 of 2), Korea Rural Economic Institute, 2017.
-* Gwangseok Chae, Hakgi Sohn, **Hyunjung Lee**, *Study on the Effects of Designating Farmlands with Unfavorable Conditions and Measures for Improvement*, Korea Ministry of Agriculture, Food and Rural Affairs, 2017.
-* Gwangseok Chae, Jaehoon Sung, **Hyunjung Lee**, Booyoung Kim, *The Study on the Estimation of Damages from Agricultural Drought*, Korea Rural Community Cooperation – Rural Research Institute, 2017.
+[1] Jeong, H., J. Sung, and **H. Lee** (2019): *"The Effects of Extreme Events on Korean Agricultural Sector."* Korea Rural Economic Institute.
+
+[2] Sung, J., W. Cho, **H. Lee,** and K. Kang (2019): *"Development of Economic Assessment Model for Water-Energy-Food Nexus Platform and Evaluation Agricultural Policies Based on Water-Energy-Food Nexus (Year 2 of 2)."* Korea Rural Development Administration.
+
+[3] Chae, G., H. Kim, Y. Lim, and **H. Lee** (2019): *"Study on Appropriate Prices of Water Supply for Permission to Use Agricultural Production Facilities."* Korea Rural Community Cooperation.
+
+[4] Chae, G., J. Sung, and **H. Lee** (2019): *"Technology Development to Prevent Regional Mega-Drought (Year 1 of 3)."* National Disaster Management Research Institute.
+
+[5] Jeong, H., Y. Lim, **H. Lee,** and K. Kang (2019): *"Study on the Development of Standardization Technology of Minimum Tillage Method for Greenhouse Gas Reduction Paddy Soil."* Korea Rural Development Administration.
+
+[6] Jeong, H., J. Sung, Y. Lim, and **H. Lee** (2018): *"The Impact of the New Climate Regime on the Agriculture, Livestock, and Food Sectors and Countermeasures (Year 2 of 2)."* Korea Rural Economic Institute.
+
+[7] Sohn, H., H. Kim, and **H. Lee** (2018): *"A Study on Establishing an Information System for Agri-Environmental Resource Management."* Korea Rural Economic Institute.
+
+[8] Lim, Y., H. Jeong, **H. Lee,** and B. Kim (2018): *"A Study on the Introduction of Regional Policy for Agricultural Environment Management."* Korea Ministry of Agriculture, Food and Rural Affairs.
+
+[9] Lim, Y., **H. Lee,** and S. Cheu (2018): *"Environment-Friendly Agriculture Policy Evaluation and its Paradigm Shift."* Korea Ministry of Agriculture, Food and Rural Affairs.
+
+[10] Sung, J., W. Cho, **H. Lee,** and K. Kang (2018): *"Development of Economic Assessment Model for Water-Energy-Food Nexus Platform and Evaluation Agricultural Policies Based on Water-Energy-Food Nexus (Year 1 of 2)."* Korea Rural Development Administration.
+
+[11] Lee, S., J. Sung, Y. Lim, and **H. Lee** (2017): *"The Impact of the New Climate Regime on the Agriculture, Livestock, and Food Sectors and Countermeasures (Year 1 of 2)."* Korea Rural Economic Institute.
+
+[12] Chae, G., H. Sohn, and **H. Lee** (2017): *"Study on the Effects of Designating Farmlands with Unfavorable Conditions and Measures for Improvement."* Korea Ministry of Agriculture, Food and Rural Affairs.
+
+[13] Chae, G., J. Sung, **H. Lee,** and B. Kim (2017): *"The Study on the Estimation of Damages from Agricultural Drought."* Korea Rural Community Cooperation – Rural Research Institute.
 
 **Technical Reports Conducted at Seoul National University**
 
 My work at Seoul National University encompasses comprehensive analyses of national agricultural support policies and region-specific development strategies. These efforts aim to support evidence-based policymaking and promote sustainable agricultural development at both national and regional levels.
 
-* Taeho Lee, Kwansoo Kim, Jeongbin Im, Donghwan An, Moonho Lee, Seonhyung Min, **Hyunjung Lee**, Seunghoon Lee, *Agricultural Policy Analysis and Evaluation on Direct Payment Program*, Korea Ministry of Economy and Finance, 2016.
-* Donghwan An, Yongjoon Kim, **Hyunjung Lee**, *Estimating an Economic Value of Current and Improved Weather Forecasts in South Korea*, Korea Meteorological Administration, 2016.
-* Kwansoo Kim, Donghwan An, **Hyunjung Lee**, Woongchan Jeon, *Economic Impact of Climate Change in South Korea based on a Newly Developed Climate Change Scenario called Shared Socio-Economic Pathway 2 (SSP2)*, National Institute of Environmental Research, 2016.
-* Donghwan An, Kwansoo Kim, Yonghyun Ha, **Hyunjung Lee**, *Analysis for Generating New Income Resources of Livestock Farms by Developing a Horse Industry in Uiseong-gun*, Uiseong-gun, 2015.
-* Donghwan An, Kwansoo Kim, Jeongbin Im, Yongjoon Kim, Kiuk Han, Yeonhee Jung, **Hyunjung Lee**, *Research and Evaluation on the Promotion Plan of Plum Industry in Gwangyang-si*, Gwangyang-si, 2015.
+[1] Lee, T., K. Kim, J. Im, D. An, M. Lee, S. Min, **H. Lee**, and S. Lee (2016): *"Agricultural Policy Analysis and Evaluation on Direct Payment Program."* Korea Ministry of Economy and Finance.
+
+[2] An, D., Y. Kim, and **H. Lee** (2016): *"Estimating an Economic Value of Current and Improved Weather Forecasts in South Korea."* Korea Meteorological Administration.
+
+[3] Kim, K., D. An, **H. Lee**, and W. Jeon (2016): *"Economic Impact of Climate Change in South Korea based on a Newly Developed Climate Change Scenario called Shared Socio-Economic Pathway 2 (SSP2)."* National Institute of Environmental Research.
+
+[4] An, D., K. Kim, Y. Ha, and **H. Lee** (2015): *"Analysis for Generating New Income Resources of Livestock Farms by Developing a Horse Industry in Uiseong-gun."* Uiseong-gun.
+
+[5] An, D., K. Kim, J. Im, Y. Kim, K. Han, Y. Jung, and **H. Lee** (2015): *"Research and Evaluation on the Promotion Plan of Plum Industry in Gwangyang-si."* Gwangyang-si.
+
