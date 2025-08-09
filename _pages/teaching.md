@@ -5,7 +5,7 @@ author_profile: true
 ---
 **Teaching Assistant**, University of California, Davis
 
-* **ARE 100A Intermediate Microeconomics** ([Spring 2021](https://github.com/Hyunjung-agLee/hyunjung-aglee.github.io/blob/master/files/ARE100A_SQ2021_HLee.pdf))
+* **ARE 100A Intermediate Microeconomics** ([Spring 2021](https://github.com/Hyunjung-agLee/hyunjung-aglee.github.io/master/files/ARE100A_SQ2021_HLee.pdf))
 * **ARE 171 Principles of Finance** (Fall 2021, Winter 2022, Fall 2022, Spring 2023, Fall 2023)
 * **ARE 107 Econometrics for Business Decisions** (Spring 2022)
 * **ARE 132 Cooperative Business Enterprises** (Winter 2023)
