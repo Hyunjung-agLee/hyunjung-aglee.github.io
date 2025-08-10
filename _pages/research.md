@@ -8,6 +8,7 @@ author_profile: true
 * Complementarity or Substitutability of Positive Sustainability Messaging in Modern Retail Markets: Can Certified Labels Better Inform Consumers than Manufacturer and Retailer Claims?
 * Affordable Sustainability? The Role of Combined Sustainability Labels and Claims in Shaping Market Reach and Consumer Inclusion
 
+<hr style="border: none; border-top: 1px solid #ccc; width: 80%; margin: 1.5em auto;">
 
 **Technical Reports Conducted at Korea Rural Economic Institute [(KREI)](https://krei.re.kr/eng/index.do)**
 
@@ -38,6 +39,9 @@ My research at the Korea Rural Economic Institute (KREI) has centered on support
 [12] Chae, G., H. Sohn, and **H. Lee** (2017): *"Study on the Effects of Designating Farmlands with Unfavorable Conditions and Measures for Improvement."* Korea Ministry of Agriculture, Food and Rural Affairs.
 
 [13] Chae, G., J. Sung, **H. Lee,** and B. Kim (2017): *"The Study on the Estimation of Damages from Agricultural Drought."* Korea Rural Community Cooperation – Rural Research Institute.
+
+
+<hr style="border: none; border-top: 1px solid #ccc; width: 80%; margin: 1.5em auto;">
 
 **Technical Reports Conducted at Seoul National University**
 
