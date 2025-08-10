@@ -9,7 +9,7 @@ author_profile: true
 * Affordable Sustainability? The Role of Combined Sustainability Labels and Claims in Shaping Market Reach and Consumer Inclusion
 
 
-**Technical Reports Conducted at Korea Rural Economic Institute (KREI)**
+**Technical Reports Conducted at Korea Rural Economic Institute [(KREI)](https://krei.re.kr/eng/index.do)**
 
 My research at the Korea Rural Economic Institute (KREI) has centered on supporting sustainable agricultural production by evaluating agricultural and environmental policies related to climate change, extreme weather events, drought resilience, and sustainable resource use. Through a series of national projects, I have conducted economic evaluations to inform evidence-based policymaking and explored strategies such as greenhouse gas mitigation and adaptation, and integrated water-energy-food systems to strengthen agricultural sustainability.
 
