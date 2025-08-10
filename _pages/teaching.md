@@ -13,5 +13,6 @@ author_profile: true
 * **ARE 136 Managerial Marketing** ([Winter 2025](https://hyunjung-aglee.github.io/files/ARE136_WQ2025_HLee.pdf))
 * **ARE 100B Intermediate Microeconomics** (Summer 2025)
 
+<span style="font-size: small; color: gray;">
 Link not provided as Teaching Evaluation data is unavailable.
-
+</span>
