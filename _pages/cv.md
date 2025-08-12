@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://www.overleaf.com/project/683360b4f301a4dbdaf0c790)
+[Download CV](https://hyunjung-aglee.github.io/files/CV_Hyunjung_Lee%20_Aug2025.pdf)
