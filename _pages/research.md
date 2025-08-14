@@ -4,9 +4,9 @@ title: "Research"
 author_profile: true
 ---
 
-* Strategic Redundancies in Sustainability Labels and Claims: Do They Inform or Mislead Consumers? *(Job Market Paper)*
-* Complementarity or Substitutability of Positive Sustainability Messaging in Modern Retail Markets: Can Certified Labels Better Inform Consumers than Manufacturer and Retailer Claims?
-* Affordable Sustainability? The Role of Combined Sustainability Labels and Claims in Shaping Market Reach and Consumer Inclusion
+* Strategic Redundancies in Sustainability Labels and Claims: Do They Inform or Mislead Consumers? *(Job Market Paper)* (with K. Kiesel)
+* Complementarity or Substitutability of Positive Sustainability Messaging in Modern Retail Markets: Can Certified Labels Better Inform Consumers than Manufacturer and Retailer Claims? (with K. Kiesel)
+* Affordable Sustainability? The Role of Combined Sustainability Labels and Claims in Shaping Market Reach and Consumer Inclusion (with K. Kiesel)
 
 <hr style="border: none; border-top: 1px solid #ccc; width: 100%; margin: 1.5em 0;">
 
