@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://hyunjung-aglee.github.io/files/CV_Hyunjung_Lee_Sept2025.pdf)
+[Download CV](https://hyunjung-aglee.github.io/files/CV_Hyunjung_Lee_Oct2025.pdf)
 
-<iframe src="https://hyunjung-aglee.github.io/files/CV_Hyunjung_Lee_Sept2025.pdf"
+<iframe src="https://hyunjung-aglee.github.io/files/CV_Hyunjung_Lee_Oct2025.pdf"
         width="90%" height="800px" style="border: none;">
 </iframe>
