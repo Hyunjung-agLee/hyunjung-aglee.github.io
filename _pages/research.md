@@ -6,7 +6,7 @@ author_profile: true
 
 * Strategic Redundancies in Sustainability Labels and Claims: Do They Inform or Mislead Consumers? *(Job Market Paper)* (with K. Kiesel)
 
-<div style="font-size:0.4em; line-height:1.2;">
+<div style="margin-left:2em; "font-size:0.7em; line-height:1.2;">
 This paper examines how consumers respond to potentially redundant statements about sustainable production practices used to promote credence attributes and how these statements interact with certified and government-regulated labels (e.g., the USDA Organic seal) to influence purchase decisions for value-added products. Using unique scanner data combined with detailed labeling information, we define and analyze three types of redundancies in sustainability-related statements: a) statements that restate information already communicated by another label; b) characteristics promoted through shelf displays that are already promoted via statement on product packages; and c) statements that emphasize attributes present or absent in all products in a given category. The results show that the organic label substantially increases sales, underscoring its credibility and broad appeal to consumers. While redundant statements do not provide additional information, they nonetheless affect purchasing decisions, with heterogeneous effects across product categories. Additionally, store promotions such as discounts remain the strongest drivers of sales, suggesting that they may compete with labeling strategies for consumer attention. These results highlight the importance of product-specific labeling strategies for marketers and retailers and suggest that policymakers should account for such heterogeneity when designing labeling regulations and related policy measures. 
 </div>
 
