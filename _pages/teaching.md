@@ -11,7 +11,7 @@ author_profile: true
 * **ARE 132 Cooperative Business Enterprises** (Winter 2023)
 * **ARE 133 Introduction to Behavioral Economics** ([Spring 2024](https://hyunjung-aglee.github.io/files/ARE133_SQ2024_HLee.pdf), [Fall 2024](https://hyunjung-aglee.github.io/files/ARE133_FQ2024_HLee.pdf))
 * **ARE 136 Managerial Marketing** ([Winter 2025](https://hyunjung-aglee.github.io/files/ARE136_WQ2025_HLee.pdf))
-* **ARE 100B Intermediate Microeconomics** (Summer 2025)
+* **ARE 100B Intermediate Microeconomics** (Summer 2025, Winter 2026)
 
 <span style="font-size: medium; color: gray; font-style: italic;">
 Link not provided as Teaching Evaluation data is unavailable.
