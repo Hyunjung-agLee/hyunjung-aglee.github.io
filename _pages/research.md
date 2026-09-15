@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-* Strategic Redundancies in Sustainability Labels and Claims: Do They Inform or Mislead Consumers? *(Job Market Paper)* (with K. Kiesel)
+* Strategic Redundancies in Sustainability Labels and Claims: Do They Inform or Mislead Consumers? (with K. Kiesel)
 
 <p style="margin-left:2em; font-size:0.9em; line-height:1.2; text-align:justify;">
 This paper examines how consumers respond to potentially redundant claims (e.g., non-GMO) added to packages or grocery shelves when labels promoting sustainable production practices are already present (e.g., USDA Organic seal). Using unique scanner data and detailed labeling information, I define and analyze three types of redundancies in sustainability-related messaging. The results show that redundant statements, including non-GMO, local shelf talkers, and vegan claims, provide no additional information but nonetheless affect purchasing decisions. The USDA Organic seal substantially increases sales, although its effectiveness varies across product categories and depends on other package and shelf statements. I also find that price promotions are the most effective way to capture consumers’ attention and compete with labels and claims at the point of sale. These findings suggest that labeling effects cannot be understood in isolation: manufacturers and retailers strategically position and promote products in response to consumers’ product-specific associations. Policymakers should therefore consider integrated approaches to labeling and in-store information provision.
