@@ -14,4 +14,4 @@ My research examines how consumers interpret and evaluate food labels and claims
 
 I received my Ph.D. in Agricultural and Resource Economics from the University of California, Davis. Before joining UC Davis, I worked as a researcher at KREI. I earned both my B.A. and M.A. in Agricultural and Resource Economics from Seoul National University.
 
-You can reach me at **hjhlee@krei.re.kr**.
+You can reach me at **hjhlee[at]krei.re.kr**.
