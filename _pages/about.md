@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Research Fellow at the Korea Rural Economic Institute [(KREI)](https://krei.re.kr/eng/index.do). My research lies at the intersection of agricultural and behavioral economics, with a focus on how consumers form beliefs, process information, and make decisions in complex information environments.
+I am a Research Fellow at the Korea Rural Economic Institute [(KREI)](https://krei.re.kr/eng/index.do). My research lies at the intersection of agricultural and behavioral economics, with a focus on how consumers form beliefs, process information, and make decisions in complex information environments.
 
 My research examines how consumers interpret and evaluate food labels and claims, particularly those related to sustainable production practices. I study how different forms of label- and production-related information shape perceived quality, willingness to pay, and purchasing decisions, with particular attention to potentially redundant or overlapping sustainability claims. More broadly, my work explores how strategic information provision and consumers’ subjective information processing influence economic behavior.
 
